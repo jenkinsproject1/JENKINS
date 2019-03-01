@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.neosoft.springbootApp&apos; to &apos;com.neosoft&apos;&#x0A;- Original project: &apos;springboot-App&apos;&#x0A;- Original element: &apos;springboot-App/src/main/java/com.neosoft.springbootApp&apos;&#x0A;- Renamed element: &apos;springboot-App/src/main/java/com.neosoft&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.neosoft.springbootApp&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;com.neosoft.springbootApp" name="com.neosoft" qualified="false" references="true" stamp="1550753782025" textual="false" version="1.0"/>
+</session>

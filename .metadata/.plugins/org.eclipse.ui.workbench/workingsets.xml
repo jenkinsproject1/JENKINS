@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1550752440096_1" label="springboot-App" name="springboot-App">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/springboot-App" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1550751635281_0" label="Window Working Set" name="Aggregate for window 1550751635280"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1551106390065_2" label="Window Working Set" name="Aggregate for window 1551106390065"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1551188609531_3" label="Window Working Set" name="Aggregate for window 1551188609531"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1551339403303_4" label="Window Working Set" name="Aggregate for window 1551339403303"/>
+</workingSetManager>

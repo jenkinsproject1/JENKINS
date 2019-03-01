@@ -1,0 +1,5 @@
+package com.neosoft.repository;
+
+public interface EmployeeRepo {
+
+}

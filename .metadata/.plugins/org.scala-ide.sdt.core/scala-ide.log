@@ -1,0 +1,8 @@
+2019-02-21 18:02:14,330 ERROR [main] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob).
+2019-02-21 18:02:14,330 ERROR [main] - System.err - log4j:WARN Please initialize the log4j system properly.
+2019-02-25 20:21:54,332 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob).
+2019-02-25 20:21:54,334 ERROR [org.eclipse.jdt.internal.ui.text.JavaReconciler] - System.err - log4j:WARN Please initialize the log4j system properly.
+2019-02-26 19:13:28,315 ERROR [main] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob).
+2019-02-26 19:13:28,316 ERROR [main] - System.err - log4j:WARN Please initialize the log4j system properly.
+2019-02-28 13:06:42,056 ERROR [main] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob).
+2019-02-28 13:06:42,058 ERROR [main] - System.err - log4j:WARN Please initialize the log4j system properly.

@@ -1,0 +1,14 @@
+package com.neosoft.controller;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+@RequestMapping("employee/api")
+public class EmployeeController {
+	public String welcome()
+	{
+		return"welcome rest api aplication";
+	}
+
+}
